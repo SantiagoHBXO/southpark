@@ -1,0 +1,38 @@
+@charset "utf-8";
+
+.colorjumbo{
+    background-color: rgba(184,49,197,1.00);	
+}
+.colorfondo {
+    background-color: rgba(251,135,47,1.00);
+}
+.colorfondo2 {
+    background-color: #7E4122;
+}
+.colorfondo3 {
+    background-color: #B09125;
+}
+.colorfondo4 {
+    background-color: #22F32C;
+}
+.colorfondo5 {
+    background-color: #F56013;
+}
+.colorfondo6 {
+    background-color: #EF20A7;
+}
+.colorfondo7 {
+    background-color: #E91E21;
+}
+.bg-butters {
+    background-color: #24D4C6;
+}
+.bg-toallin {
+    background-color: #8159E3;
+}
+.bg-chef {
+    background-color: #7C4F2B;
+}
+.bg-jimmy {
+    background-color: #EBF457;
+}
